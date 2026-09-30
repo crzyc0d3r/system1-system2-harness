@@ -1,0 +1,4 @@
+# Core harnesses are standard-library only.
+pytest>=8.0
+# Optional: LLM planner for System 2 (harness.system2.OpenAIPlanner)
+# openai>=1.40
